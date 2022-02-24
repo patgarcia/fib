@@ -1,5 +1,8 @@
 # fib
-Vanity one liner, fibonacci in position number.
+Vanity one liners. 
+- Fibonacci in position number
+- __String__ sequence of fib nums up to a certain number
+- __Sum__ of fib up to a certain number
 
 ## Javascript one liners
 ```javascript
